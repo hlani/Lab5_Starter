@@ -15,7 +15,5 @@ Name: Hailani Lam
 
     Yes, you can create a unit test to check if an input has exceed the maximum length or not. It can be tested without relying on any other external features. 
 
-2) Would you use a unit test to test the “max message length” feature of a messaging application? Why or why not? For this question, assume the “max message length” feature prevents the user from typing more than 80 characters.
 
-   Yes, you can create a unit test to check if an input has exceed the maximum length or not. It can be tested without relying on any other external features. 
 
